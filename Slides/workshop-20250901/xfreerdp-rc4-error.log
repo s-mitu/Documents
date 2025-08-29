@@ -1,0 +1,10 @@
+[17:08:39:948] [44045:bf8e6810] [WARN][com.winpr.utils.ssl] - OpenSSL LEGACY provider failed to load, no md4 support available!
+[17:08:39:035] [44045:bf8e6810] [WARN][com.freerdp.crypto] - Certificate verification failure 'self-signed certificate (18)' at stack position 0
+[17:08:39:035] [44045:bf8e6810] [WARN][com.freerdp.crypto] - CN = WINDOWS-1MK0CB2
+Password: 
+[17:08:43:086] [44045:bf8e6810] [ERROR][com.freerdp.utils] - Caught signal 'Segmentation fault' [11]
+[17:08:43:087] [44045:bf8e6810] [FATAL][com.winpr.utils.debug] - Invalid stacktrace buffer! check if platform is supported!
+[17:08:43:087] [44045:bf8e6810] [ERROR][com.freerdp.utils] - winpr_backtrace failed!
+
+Segmentation fault (core dumped)
+

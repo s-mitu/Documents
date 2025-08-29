@@ -1,0 +1,2 @@
+security/openssh-portable
+env CFLAGS=-DWITH_DSA make 
